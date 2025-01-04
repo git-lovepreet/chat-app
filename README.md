@@ -19,7 +19,33 @@ A real-time messaging application with secure user authentication and smooth dat
 ---
 
 ## 📂 **Project Structure**
-lib/ ├── main.dart ├── components/ │ ├── chat_bubble.dart │ ├── my_button.dart │ ├── my_drawer.dart │ ├── my_textfield.dart │ ├── user_tile.dart ├── models/ │ ├── message.dart ├── pages/ │ ├── chat_page.dart │ ├── home_page.dart │ ├── login_page.dart │ ├── register_page.dart │ ├── settings_page.dart ├── services/ │ ├── auth/ │ │ ├── auth_gate.dart │ │ ├── auth_service.dart │ │ ├── login_or_register.dart │ ├── chat/ │ ├── chat_service.dart ├── themes/ │ ├── dark_mode.dart │ ├── light_mode.dart │ ├── theme_provider.dart
+lib/
+├── main.dart
+├── components/
+│ ├── chat_bubble.dart
+│ ├── my_button.dart
+│ ├── my_drawer.dart
+│ ├── my_textfield.dart
+│ ├── user_tile.dart
+├── models/
+│ ├── message.dart
+├── pages/
+│ ├── chat_page.dart
+│ ├── home_page.dart
+│ ├── login_page.dart
+│ ├── register_page.dart
+│ ├── settings_page.dart
+├── services/
+│ ├── auth/
+│ │ ├── auth_gate.dart
+│ │ ├── auth_service.dart
+│ │ ├── login_or_register.dart
+│ ├── chat/
+│ ├── chat_service.dart
+├── themes/
+│ ├── dark_mode.dart
+│ ├── light_mode.dart
+│ ├── theme_provider.dart
 
 ---
 
