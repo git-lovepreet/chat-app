@@ -51,11 +51,21 @@ lib/
 
 ## 📸 **Screenshots**
 1. **Login Screen**  
-   A secure user login with Firebase Authentication.  
    ![Login Screen](./screenshots/login_screen.png)
 
-2. **Chat Screen**  
-   Real-time chat with responsive UI.  
+1. **Register Screen**  
+   ![Login Screen](./screenshots/login_screen.png)
+
+1. **Drawer Screen**  
+   ![Login Screen](./screenshots/login_screen.png)
+
+1. **Users Screen**  
+   ![Login Screen](./screenshots/login_screen.png)   
+
+1. **Settings Screen**  
+   ![Login Screen](./screenshots/login_screen.png)
+      
+3. **Chat Screen**  
    ![Chat Screen](./screenshots/chat_screen.png)
 
 ---
