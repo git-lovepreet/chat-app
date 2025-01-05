@@ -51,22 +51,22 @@ lib/
 
 ## 📸 **Screenshots**
 1. **Login Screen**  
-   ![Login Screen](./screenshots/login_screen.png)
+   ![image alt](https://github.com/git-lovepreet/chat-app/blob/master/Screenshot_2025-01-05-05-28-44-125_com.example.f_chat_app.jpg?raw=true)
 
-1. **Register Screen**  
-   ![Login Screen](./screenshots/login_screen.png)
+2. **Register Screen**  
+   ![image alt](https://github.com/git-lovepreet/chat-app/blob/master/Screenshot_2025-01-05-05-28-44-125_com.example.f_chat_app.jpg?raw=true)
 
-1. **Drawer Screen**  
-   ![Login Screen](./screenshots/login_screen.png)
+3. **Drawer Screen**  
+   ![image alt](https://github.com/git-lovepreet/chat-app/blob/master/Screenshot_2025-01-05-05-28-44-125_com.example.f_chat_app.jpg?raw=true)
 
-1. **Users Screen**  
-   ![Login Screen](./screenshots/login_screen.png)   
+4. **Users Screen**  
+   ![image alt](https://github.com/git-lovepreet/chat-app/blob/master/Screenshot_2025-01-05-05-28-44-125_com.example.f_chat_app.jpg?raw=true)   
 
-1. **Settings Screen**  
-   ![Login Screen](./screenshots/login_screen.png)
+5. **Settings Screen**  
+   ![image alt](https://github.com/git-lovepreet/chat-app/blob/master/Screenshot_2025-01-05-05-28-44-125_com.example.f_chat_app.jpg?raw=true)
       
-3. **Chat Screen**  
-   ![Chat Screen](./screenshots/chat_screen.png)
+6. **Chat Screen**  
+   ![image alt](https://github.com/git-lovepreet/chat-app/blob/master/Screenshot_2025-01-05-05-28-44-125_com.example.f_chat_app.jpg?raw=true)
 
 ---
 
